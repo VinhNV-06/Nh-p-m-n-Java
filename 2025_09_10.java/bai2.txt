@@ -1,0 +1,30 @@
+Trong java có 8 kiểu dữ liệu cơ bản bao gồm : 
+1. Byte : 
+     - kích thước : 8 bit.
+     - giá trị : từ -128 đến 127.
+     - dùng để tiết kiệm bộ nhớ khi lưu số nhỏ.
+2. Short : 
+     - Kích thước: 16 bit.
+     - Giá trị: từ -32,768 đến 32,767.
+3. Int : 
+     - Kích thước: 32 bit
+     - Giá trị: từ -2,147,483,648 đến 2,147,483,647.
+     - Dùng phổ biến để lưu số nguyên.
+4. Long : 
+     - Kích thước: 64 bit.
+     - Giá trị: từ -2^63 đến 2^63 - 1.
+     - Dùng khi số nguyên vượt quá phạm vi của int.
+5. Float : 
+     - Kích thước: 32 bit.
+     - Giá trị: số thực dấu chấm động, độ chính xác 7 chữ số thập phân.
+     - Dùng cho dữ liệu số thực không cần quá chính xác.
+6. Double : 
+     - Kích thước: 64 bit.
+     - Giá trị: số thực dấu chấm động, độ chính xác 15 chữ số thập phân.
+     - Dùng phổ biến để lưu số thực.
+7. Char : 
+     - Kích thước: 16 bit (Unicode).
+     - Lưu 1 ký tự (ví dụ: 'a', 'A', '1').
+8. Boolean : 
+     - Chỉ có 2 giá trị: true hoặc false.
+     - Dùng trong điều kiện rẽ nhánh, vòng lặp.
